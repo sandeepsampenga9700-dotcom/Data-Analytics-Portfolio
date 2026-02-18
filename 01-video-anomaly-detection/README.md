@@ -1,3 +1,3 @@
 🔗 Full project repository:
-https://github.com/sandeepsampenga9700-dotcom/Anomaly-Detection-Survilliance
+https://github.com/sandeepsampenga9700-dotcom/Anamoly-Detection-Survilliance
 Project files here
